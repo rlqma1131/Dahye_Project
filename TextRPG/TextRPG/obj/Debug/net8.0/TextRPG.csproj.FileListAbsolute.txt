@@ -12,3 +12,18 @@ D:\Sparta Coding Club\Sparta\개인 과제\TextRPG\TextRPG\obj\Debug\net8.0\refi
 D:\Sparta Coding Club\Sparta\개인 과제\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.pdb
 D:\Sparta Coding Club\Sparta\개인 과제\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.genruntimeconfig.cache
 D:\Sparta Coding Club\Sparta\개인 과제\TextRPG\TextRPG\obj\Debug\net8.0\ref\TextRPG.dll
+D:\Git\Sparta_Git\Dahye_Project\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.exe
+D:\Git\Sparta_Git\Dahye_Project\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.deps.json
+D:\Git\Sparta_Git\Dahye_Project\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.runtimeconfig.json
+D:\Git\Sparta_Git\Dahye_Project\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.dll
+D:\Git\Sparta_Git\Dahye_Project\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.pdb
+D:\Git\Sparta_Git\Dahye_Project\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Sparta_Git\Dahye_Project\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.AssemblyInfoInputs.cache
+D:\Git\Sparta_Git\Dahye_Project\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.AssemblyInfo.cs
+D:\Git\Sparta_Git\Dahye_Project\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.csproj.CoreCompileInputs.cache
+D:\Git\Sparta_Git\Dahye_Project\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.sourcelink.json
+D:\Git\Sparta_Git\Dahye_Project\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.dll
+D:\Git\Sparta_Git\Dahye_Project\TextRPG\TextRPG\obj\Debug\net8.0\refint\TextRPG.dll
+D:\Git\Sparta_Git\Dahye_Project\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.pdb
+D:\Git\Sparta_Git\Dahye_Project\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.genruntimeconfig.cache
+D:\Git\Sparta_Git\Dahye_Project\TextRPG\TextRPG\obj\Debug\net8.0\ref\TextRPG.dll

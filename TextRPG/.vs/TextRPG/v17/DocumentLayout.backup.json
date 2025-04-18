@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Sparta Coding Club\\Sparta\\\uAC1C\uC778 \uACFC\uC81C\\TextRPG\\",
+  "WorkspaceRootPath": "D:\\Git\\Sparta_Git\\Dahye_Project\\TextRPG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E33387A0-483C-4066-8D35-449EAFBE179A}|TextRPG\\TextRPG.csproj|d:\\sparta coding club\\sparta\\\uAC1C\uC778 \uACFC\uC81C\\textrpg\\textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E33387A0-483C-4066-8D35-449EAFBE179A}|TextRPG\\TextRPG.csproj|d:\\git\\sparta_git\\dahye_project\\textrpg\\textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E33387A0-483C-4066-8D35-449EAFBE179A}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,11 +14,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",
@@ -28,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Sparta Coding Club\\Sparta\\\uAC1C\uC778 \uACFC\uC81C\\TextRPG\\TextRPG\\Program.cs",
+              "DocumentMoniker": "D:\\Git\\Sparta_Git\\Dahye_Project\\TextRPG\\TextRPG\\Program.cs",
               "RelativeDocumentMoniker": "TextRPG\\Program.cs",
-              "ToolTip": "D:\\Sparta Coding Club\\Sparta\\\uAC1C\uC778 \uACFC\uC81C\\TextRPG\\TextRPG\\Program.cs",
-              "RelativeToolTip": "TextRPG\\Program.cs",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "ToolTip": "D:\\Git\\Sparta_Git\\Dahye_Project\\TextRPG\\TextRPG\\Program.cs*",
+              "RelativeToolTip": "TextRPG\\Program.cs*",
+              "ViewState": "AgIAAMIAAAAAAAAAAAA3wNoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T02:45:40.685Z",
               "EditorCaption": ""
